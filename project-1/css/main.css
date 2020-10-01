@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.height{
+    min-height: 100vh;
+}
+.title-underline{
+    width:200px;
+    height: 5px;
+    margin:0 auto;
+}
+.about-picture{
+    background: url(../image/background.jpeg)center/cover no-repeat fixed;
+}
+.height-80{
+    min-height: 80vh;
+}
+/* #filler{
+    background: url(../image/background.jpeg)center/cover no-repeat fixed;
+    
+
+} */
